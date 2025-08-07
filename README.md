@@ -1,8 +1,6 @@
-# Frontend Mentor - News homepage solution
-
 This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl).
 
-### The challenge
+### Objectives
 
 Users should be able to:
 
@@ -17,10 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [https://github.com/joyce-ship-it/newspage-ui]
+- Live Site URL: [https://newspage-ui.netlify.app/]
 
 ### Built with
 
